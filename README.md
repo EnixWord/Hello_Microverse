@@ -1,4 +1,4 @@
-<a name="readme-top"></a>
+<a name="Hello Microverse"></a>
 
 <!--
 HOW TO USE:
@@ -57,38 +57,19 @@ After you're finished please remove all the comments and instructions!
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 [your_project_name] <a name="about-project"></a>
+# 📖 [your_project_name] <a name="Hello Microverse">Hello Microverse</a>
 
 > Describe your project in 1 or 2 sentences.
+This is a Hello Microverse greeting project.
+**[your_project__name]** is Hello Microverse
 
-**[your_project__name]** is a...
+## 🛠 Built With <a name="built-with">Html, css</a>
 
-## 🛠 Built With <a name="built-with"></a>
-
-### Tech Stack <a name="tech-stack"></a>
+### Tech Stack <a name="tech-stack">HTML5, CSS3</a>
 
 > Describe the tech stack and include only the relevant sections that apply to your project.
+HTML5 and css3 which are the latest version were used in this project.
 
-<details>
-  <summary>Client</summary>
-  <ul>
-    <li><a href="https://reactjs.org/">React.js</a></li>
-  </ul>
-</details>
-
-<details>
-  <summary>Server</summary>
-  <ul>
-    <li><a href="https://expressjs.com/">Express.js</a></li>
-  </ul>
-</details>
-
-<details>
-<summary>Database</summary>
-  <ul>
-    <li><a href="https://www.postgresql.org/">PostgreSQL</a></li>
-  </ul>
-</details>
 
 <!-- Features -->
 
@@ -96,9 +77,8 @@ After you're finished please remove all the comments and instructions!
 
 > Describe between 1-3 key features of the application.
 
-- **[key_feature_1]**
-- **[key_feature_2]**
-- **[key_feature_3]**
+- **[key_feature_1]** Hello Microverse built with HTML and CSS
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -106,9 +86,9 @@ After you're finished please remove all the comments and instructions!
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-> Add a link to your deployed project.
+> Add a link to your deployed project. Yet to be deployed.
 
-- [Live Demo Link](https://yourdeployedapplicationlink.com)
+- [Live Demo Link]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -117,13 +97,16 @@ After you're finished please remove all the comments and instructions!
 ## 💻 Getting Started <a name="getting-started"></a>
 
 > Describe how a new developer could make use of your project.
+ Get your pc.
+ Clone this project to your local machine. 
 
 To get a local copy up and running, follow these steps.
 
 ### Prerequisites
+Basic knownledge of computer.
 
 In order to run this project you need:
-
+live server.
 <!--
 Example command:
 
@@ -135,7 +118,7 @@ Example command:
 ### Setup
 
 Clone this repository to your desired folder:
-
+https://github.com/EnixWord/Hello_Microverse.git
 <!--
 Example commands:
 
@@ -148,7 +131,7 @@ Example commands:
 ### Install
 
 Install this project with:
-
+cd to Hello Microverse.
 <!--
 Example command:
 
@@ -161,19 +144,19 @@ Example command:
 ### Usage
 
 To run the project, execute the following command:
-
+live server
 <!--
 Example command:
 
 ```sh
-  rails server
+  
 ```
 --->
 
 ### Run tests
 
 To run tests, run the following command:
-
+npm test
 <!--
 Example command:
 
@@ -185,7 +168,7 @@ Example command:
 ### Deployment
 
 You can deploy this project using:
-
+github pages.
 <!--
 Example:
 
@@ -198,33 +181,20 @@ Example:
 
 <!-- AUTHORS -->
 
-## 👥 Authors <a name="authors"></a>
+## 👥 Author(s) <a name="authors"></a>
 
 > Mention all of the collaborators of this project.
 
 👤 **Author1**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- GitHub: [@EnixWord](https://github.com/EnixWord)
+- Twitter: [@StevMicroverse](https://twitter.com/StevMicroverse)
+- LinkedIn: [Stephen Okhaishie](https://www.linkedin.com/in/stephen-okhaishie-3baa19255/)
 
-👤 **Author2**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- FUTURE FEATURES -->
 
-## 🔭 Future Features <a name="future-features"></a>
-
-> Describe 1 - 3 features you will add to the project.
-
-- [ ] **[new_feature_1]**
-- [ ] **[new_feature_2]**
-- [ ] **[new_feature_3]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -234,7 +204,8 @@ Example:
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](../../issues/).
+Feel free to check the [issues page](https://github.com/EnixWord/Hello_Microverse/issues).
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -244,7 +215,7 @@ Feel free to check the [issues page](../../issues/).
 
 > Write a message to encourage readers to support your project
 
-If you like this project...
+If you like this project give a ⭐️.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -254,7 +225,7 @@ If you like this project...
 
 > Give credit to everyone who inspired your codebase.
 
-I would like to thank...
+I would like to thank God Almighty and Microverse for the opportunity and motivation.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -263,6 +234,7 @@ I would like to thank...
 ## ❓ FAQ <a name="faq"></a>
 
 > Add at least 2 questions new developers would ask when they decide to use your project.
+
 
 - **[Question_1]**
 
@@ -278,8 +250,5 @@ I would like to thank...
 
 ## 📝 License <a name="license"></a>
 
-This project is [MIT](./LICENSE) licensed.
-
-_NOTE: we recommend using the [MIT license](https://choosealicense.com/licenses/mit/) - you can set it up quickly by [using templates available on GitHub](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/adding-a-license-to-a-repository). You can also use [any other license](https://choosealicense.com/licenses/) if you wish._
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
