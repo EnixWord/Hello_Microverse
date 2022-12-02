@@ -1,31 +1,17 @@
-<a name="readme-top"></a>
+![](https://img.shields.io/badge/Microverse-blueviolet)
 
-<!--
-HOW TO USE:
-This is an example of how you may give instructions on setting up your project locally.
+ Hello Microverse Project
 
-Modify this file to match your project and remove sections that don't apply.
+> Description of the project.
+This is an HTML & CSS Hello Microverse project
 
-REQUIRED SECTIONS:
-- Table of Contents
-- About the Project
-  - Built With
-  - Live Demo
-- Getting Started
-- Authors
-- Future Features
-- Contributing
-- Show your support
-- Acknowledgements
-- License
+## Built With
+- Major languages HTML, CSS
 
-After you're finished please remove all the comments and instructions!
--->
+[Live Demo Link](https://github.com/EnixWord/Hello_Microverse)
 
-<div align="center">
 
-  <img src="murple_logo.png" alt="logo" width="140"  height="auto" />
-  <br/>
+## Getting Started
 
   <h3><b>Microverse README Template</b></h3>
 
