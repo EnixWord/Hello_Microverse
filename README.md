@@ -1,18 +1,7 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
  Hello Microverse Project
-
-> Description of the project.
-This is an HTML & CSS Hello Microverse project
-
-## Built With
-- Major languages HTML, CSS
-
-[Live Demo Link](https://github.com/EnixWord/Hello_Microverse)
-
-
-## Getting Started
-
+ 
   <h3><b>Microverse README Template</b></h3>
 
 </div>
@@ -61,20 +50,12 @@ This is an HTML & CSS Hello Microverse project
 
 To get a local copy up and running, follow these steps.
 
+
 ### Prerequisites
-
-In order to run this project you need:
-
-<!--
-Example command:
-
-```sh
- gem install rails
-```
- -->
+Web Browser
+Code Editor
 
 ### Setup
-
 Clone this repository to your desired folder:
 
 ```sh
@@ -95,40 +76,11 @@ Example command:
 ```
 --->
 
-### Usage
-
-To run the project, execute the following command:
-
-<!--
-Example command:
-
-```sh
-  rails server
-```
---->
-
-### Run tests
-
-To run tests, run the following command:
-
-<!--
-Example command:
-
-```sh
-  bin/rails test test/models/article_test.rb
-```
---->
-
-<!-- AUTHORS -->
-
-## 👥 Author(s) <a name="authors"></a>
-
-👤 **Author1**
+👤 **Author**
 
 - GitHub: [@EnixWord](https://github.com/EnixWord)
 - Twitter: [@StevMicroverse](https://twitter.com/StevMicroverse)
 - LinkedIn: [Stephen Okhaishie](https://www.linkedin.com/in/stephen-okhaishie-3baa19255/)
-
 
 <!-- CONTRIBUTING -->
 
@@ -138,37 +90,16 @@ Contributions, issues, and feature requests are welcome!
 
 Feel free to check the [issues page](https://github.com/EnixWord/Hello_Microverse/issues).
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+## Show your support
 
-<!-- SUPPORT -->
+Give a ⭐️ if you like this project!
 
-## ⭐️ Show your support <a name="support"></a>
+## Acknowledgments
 
-> Write a message to encourage readers to support your project
+- Hat tip to anyone whose code was used
+- Inspiration
+- etc
 
-If you like this project...
+## 📝 License
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- ACKNOWLEDGEMENTS -->
-
-## 🙏 Acknowledgments <a name="acknowledgements"></a>
-
-> Give credit to everyone who inspired your codebase.
-
-I would like to thank...
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- FAQ (optional) -->
-
-
-<!-- LICENSE -->
-
-## 📝 License <a name="license"></a>
-
-This project is [MIT](./LICENSE) licensed.
-
-_NOTE: we recommend using the [MIT license](https://choosealicense.com/licenses/mit/) - you can set it up quickly by [using templates available on GitHub](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/adding-a-license-to-a-repository). You can also use [any other license](https://choosealicense.com/licenses/) if you wish._
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+This project is [MIT](./MIT.md) licensed.
