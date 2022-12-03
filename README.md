@@ -1,33 +1,80 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
  Hello Microverse Project
+ 
+  <h3><b>Microverse README Template</b></h3>
 
-> Description of the project.
-This is an HTML & CSS Hello Microverse project
+</div>
 
-## Built With
-- Major languages HTML, CSS
+<!-- TABLE OF CONTENTS -->
 
-[Live Demo Link](https://github.com/EnixWord/Hello_Microverse)
+# 📗 Table of Contents
 
+- [📖 About the Project](#about-project)
+  - [🛠 Built With](#built-with)
+    - [Tech Stack](#tech-stack)
+    - [Key Features](#key-features)
+  - [🚀 Live Demo](#live-demo)
+- [💻 Getting Started](#getting-started)
+  - [Setup](#setup)
+  - [Prerequisites](#prerequisites)
+  - [Install](#install)
+  - [Usage](#usage)
+  - [Run tests](#run-tests)
+  - [Deployment](#triangular_flag_on_post-deployment)
+- [👥 Authors](#authors)
+- [🔭 Future Features](#future-features)
+- [🤝 Contributing](#contributing)
+- [⭐️ Show your support](#support)
+- [🙏 Acknowledgements](#acknowledgements)
+- [❓ FAQ](#faq)
+- [📝 License](#license)
 
-## Getting Started
+<!-- PROJECT DESCRIPTION -->
 
-To get a local copy up and running follow these simple example steps.
+# 📖 [Hello_Microverse] <a name="about-project"></a>
+
+> I did this project by creating a repository where i coded some hello-microverse
+
+**[Hello_Microverse]** is my first project in microverse
+
+## 🛠 Built With <a name="built-with"></a>
+- HTML
+- CSS
+
+<!-- GETTING STARTED -->
+
+## 💻 Getting Started <a name="getting-started"></a>
+
+> Describe how a new developer could make use of your project.
+
+To get a local copy up and running, follow these steps.
+
 
 ### Prerequisites
 Web Browser
 Code Editor
+
 ### Setup
-~~~bash
-git clone https://github.com/EnixWord/Hello_Microverse
-cd hello-world
-~~~
+Clone this repository to your desired folder:
 
+```sh
+  cd my-folder
+  git clone https://github.com/EnixWord/Hello_Microverse.git
+```
 
+### Install
 
+Install this project with:
 
+<!--
+Example command:
 
+```sh
+  cd my-project
+  gem install
+```
+--->
 
 👤 **Author**
 
@@ -35,13 +82,13 @@ cd hello-world
 - Twitter: [@StevMicroverse](https://twitter.com/StevMicroverse)
 - LinkedIn: [Stephen Okhaishie](https://www.linkedin.com/in/stephen-okhaishie-3baa19255/)
 
+<!-- CONTRIBUTING -->
 
-
-## 🤝 Contributing
+## 🤝 Contributing <a name="contributing"></a>
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](../../issues/).
+Feel free to check the [issues page](https://github.com/EnixWord/Hello_Microverse/issues).
 
 ## Show your support
 
